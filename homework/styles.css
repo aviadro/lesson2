@@ -1,0 +1,26 @@
+
+.greenLink{a{
+    color:green ;
+}}
+
+.noUnderlineLink{a{
+    text-decoration: none;
+}}
+
+.bold{
+    font-weight: bold;
+    
+    }
+.violet{
+        color:blueviolet;
+    }
+.center{
+        padding-left: 30%;
+        padding-right:  30%;
+    }
+.redBackground{
+    background-color: red;
+}
+footer {
+    bottom: 0;
+}

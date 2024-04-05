@@ -1,0 +1,16 @@
+button {
+    background-color: blue;
+    color: rgb(44, 20, 20);
+    border:0cm;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.beige {
+
+    background-color: beige;
+}
+
+.bold{
+    font-weight:900;
+}
